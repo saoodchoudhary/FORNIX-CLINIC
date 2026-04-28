@@ -19,7 +19,7 @@ export default function Footer() {
             </p>
             <div className="mt-4 flex gap-3">
               <a
-                href="https://maps.app.goo.gl/example"
+                href="https://maps.google.com/?q=Fornix+Clinic+D1+Devli+Rd+Khanpur+New+Delhi+110080"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-700 hover:bg-blue-600 text-white text-xs px-3 py-1.5 rounded-full transition-colors"
